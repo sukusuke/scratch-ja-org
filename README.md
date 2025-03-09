@@ -20,4 +20,8 @@ https://day.scratch-ja.org/
 
 https://days.scratch-ja.org/
 
+## 連絡先
+scratch.ja(at)gmail.com
 
+----
+www.scratch-ja.org 2025
