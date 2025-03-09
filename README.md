@@ -3,14 +3,21 @@
 現在は引き続き以下のページで情報提供しています。
 
 ## OtOMO
+
 https://otomo.scratch-ja.org/
+
 ### on X
+
 https://x.com/Scratchja
+
 
 ## Scratch Day in Tokyo
 ### 最新情報
+
 https://day.scratch-ja.org/
+
 ### 2019年以前
+
 https://days.scratch-ja.org/
 
 
