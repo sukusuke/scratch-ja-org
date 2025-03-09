@@ -4,21 +4,21 @@
 
 ## OtOMO
 
-https://otomo.scratch-ja.org/
+[https://otomo.scratch-ja.org/](https://otomo.scratch-ja.org/)
 
 ### on X
 
-https://x.com/Scratchja
+[https://x.com/Scratchja](https://x.com/Scratchja)
 
 
 ## Scratch Day in Tokyo
 ### 最新情報
 
-https://day.scratch-ja.org/
+[https://day.scratch-ja.org/](https://day.scratch-ja.org/)
 
 ### 2019年以前
 
-https://days.scratch-ja.org/
+[https://days.scratch-ja.org/](https://days.scratch-ja.org/)
 
 ## 連絡先
 scratch.ja(at)gmail.com
