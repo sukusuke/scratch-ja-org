@@ -23,5 +23,7 @@
 ## 連絡先
 scratch.ja(at)gmail.com
 
+![sukusuke-sq](https://github.com/user-attachments/assets/d9aa2038-c655-4b32-90e9-a2e4886114f6)
+
 ----
 www.scratch-ja.org 2025
